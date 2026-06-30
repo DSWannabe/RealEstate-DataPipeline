@@ -1,2 +1,12 @@
 bds_crawling/utils/.env
 *.env
+__pycache__/
+*.pyc
+chroma_db/
+.vscode/
+data/raw/
+data/url/
+*.env
+.env
+*.db
+*.sqlite3
