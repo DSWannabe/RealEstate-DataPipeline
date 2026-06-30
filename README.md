@@ -1,4 +1,4 @@
-# RealEstate-DataPipeline (BDS-Project)
+# RealEstate-DataPipeline (RE-Project)
 
 An end-to-end data engineering pipeline that scrapes Vietnamese real estate listings, lands them in a PostgreSQL data lake, and transforms them into a star-schema data warehouse for downstream price prediction modeling.
 
