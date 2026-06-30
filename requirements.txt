@@ -1,0 +1,23 @@
+scrapy
+python-dotenv
+loguru
+tqdm
+beautifulsoup4
+pandas
+scrapy-user-agents
+scikit-learn
+
+# For development
+ipython
+flake8
+isort
+black
+pre-commit 
+
+# database
+peewee
+psycopg2-binary
+
+# For NLP
+sentence-transformers
+chromadb
